@@ -1,4 +1,4 @@
-# Pellet-Sorter
+# Pellet Sorter
 This repo showcases the pellet sorter my team and I developed during my freshman year of college. The robot was built with the LEGO Mindstorms kit, budget items such as popsicle sticks, cardboard, tape and programmed with LabVIEW. The purpose of this project was to build a prototype machine for the delivery of water treament pellets (marbles) in third world countries. 
 
 ## Functions
