@@ -11,6 +11,7 @@ This repo showcases the pellet sorter my team and I developed during my freshman
 
 ## Design
 ![image](images/pellet.png)
+<img align="left" width="100" height="images/pellet.png">
 
 Link to video:
 https://drive.google.com/file/d/1ghuc0h7ElsyhmCxdIfVm9eh3FYPljAYP/view?usp=sharing
