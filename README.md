@@ -10,7 +10,9 @@ This repo showcases the pellet sorter my team and I developed during my freshman
   * Sorting of marbles via rotaional motors
 
 ## Design
-<img align="center" width="600" height="800" src="images/pellet.png">
+<p align="center">
+<img width="600" height="800" src="images/pellet.png">
+</p>
 
 Link to video:
 https://drive.google.com/file/d/1ghuc0h7ElsyhmCxdIfVm9eh3FYPljAYP/view?usp=sharing
